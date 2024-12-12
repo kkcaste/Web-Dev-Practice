@@ -2,7 +2,7 @@
 >Note: I'm still at an **average level**, these sites **are not responsive for mobile devices** at the moment and may have sometimes banal code.
 >_**Many tags, ids, variables and functions may be in Italian**_
 ## List of what you will find here:
-- A **"To Do List"** where you can add or remove elements
+- A **"[To Do List](/To_Do_List)"** where you can add or remove elements
 - A pages that only show a **clock**
 - A **"Guess the number"** game
 - A **"Random quote generator"** that generate a random quote when you click on the screen
