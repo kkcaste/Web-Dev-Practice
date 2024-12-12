@@ -1,0 +1,52 @@
+*{
+	box-sizing:border-box;
+}
+html{
+	margin:0;
+	padding:0;
+	scroll-behavior:smooth;
+}
+body{
+	background-color:#F5F5F7;
+	font-family: "PT Mono", monospace;
+	font-weight: 400;
+	font-style: normal;
+	height:100vh;
+	width:100vw;
+	margin:0;
+	padding:0;
+}
+
+.header{
+	font-family:Arial;
+	font-weight:bolder;
+	text-align:center;
+	color:#705C53;
+	margin-bottom:10px;
+	padding:0;
+
+}
+
+hr{
+	background-color:#705C53;
+	height:1px;
+	border:none;
+	margin-bottom:10px;
+	padding:0;
+}
+
+#text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  max-width:100vw;
+  transition: opacity 0.5s ease; 
+  opacity: 1;
+}
+
+.hidden {
+    opacity: 0;
+}
+
