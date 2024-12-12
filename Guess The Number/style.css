@@ -1,0 +1,130 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family: "Cherry Bomb One", system-ui;
+	font-weight: 400;
+	font-style: normal;
+}
+body{
+	width:100vw;
+	height:100vh;
+	background: #746C70;
+
+}
+.titles{
+	color:#E2DED0;
+	text-shadow:4px 4px #4E4F50;
+	font-size:40px;
+	text-align:center;
+	
+}
+.titles hr{
+	border:1px dotted #E2DED0;
+	padding:0;
+	margin:0;
+	margin-left:auto;
+	margin-right:auto;
+	width:53%;
+	
+}
+.game{
+	text-align:center;
+	margin-top:20px;
+}
+.game input{
+	padding:10px;
+	width:300px;
+
+	font-size:60px;
+	text-align:center;
+	border:none;
+	border-bottom:4px solid #E2DED0;
+	background:none;
+	caret-color:#E2DED0;
+	color:#E2DED0;
+	text-shadow:2px 2px #4E4F50;
+	padding-bottom:0;
+	margin-bottom:0;
+	transition:all 0.1s ease;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+.game input:focus{
+	outline:none;
+	border-bottom:6px solid #E2DED0;
+	border-radius:5px;
+}
+.buttons{
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+
+}
+.buttons button{
+	font-size:40px;
+	padding:10px;
+	border-radius:30px;
+	background:#E2DED0;
+	color:#4E4F50;
+	text-shadow:1px 1px #647C90;
+	border:solid 2px #4E4F50;
+	transition:all 0.2s ease;
+	
+}
+.buttons button:hover{
+	background:#647C90;
+	color:#E2DED0;
+	text-shadow:2px 2px #4E4F50;
+}
+.buttons button:active{
+	background:#4E4F50;
+	transition:0.05s ease;
+}
+
+.text{
+	text-align:center;
+}
+.text #usrTries,#bigOrSmall{
+	color:#E2DED0;
+	text-shadow:4px 4px #4E4F50;
+	font-size:40px;
+}
+.no{
+	color:#E2DED0;
+	text-shadow:3px 2px 0 #970C10;
+	
+}
+.text ul{
+	background:#647C90;
+	font-size:25px;
+	width:350px;
+	margin-left:auto;
+	margin-right:auto;
+	list-style-type:none;
+	color:#E2DED0;
+	text-shadow:2px 2px #4E4F50;
+	padding:20px;
+	border-radius:40px;
+	margin-top:20px;
+	box-shadow:4px 4px #4E4F50;
+}
+.center{
+	text-align:center;
+}
+.ez{
+	font-size:15px;
+    color:#B7B7B7;
+    font-family:arial;
+    text-align:center;
+    margin:0;
+    text-align:center;
+    text-shadow:none;
+    padding:0;
+}
