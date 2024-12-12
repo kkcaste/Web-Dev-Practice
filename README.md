@@ -5,7 +5,7 @@
 - **"My Groceries List"** [Code here](#1-My-Groceries-List-Code-here)
 - **"Clock"** [Code here](#2-Clock-Code-here)
 - **"Guess the Number"** [Code here](#3-Guess-The-Number-Code-here)
-- **"Random Quote Generator"** [Code here](/RandomQuotes)
+- **"Random Quote Generator"** [Code here](#4-Random-Quote-Generator-Code-here)
 
 > **I’m continuously adding** new exercises and **updating** existing ones.  
 ---
