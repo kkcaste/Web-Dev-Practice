@@ -5,6 +5,6 @@
 - A **"[To Do List](/ToDoList)"** where you can add or remove elements
 - A pages that only show a **[clock](/Clock)**
 - A **"[Guess the number](/GuessTheNumber)"** game
-- A **"[Random quote generator](/RandomQuote)"** that generate a random quote when you click on the screen
+- A **"[Random quote generator](/RandomQuotes)"** that generate a random quote when you click on the screen
 >**Continuously adding** new exercises and **updating** existing ones_
 
