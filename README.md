@@ -2,10 +2,10 @@
 > I'm still at an **average level**, so these sites **are not responsive on mobile devices** at the moment and may have some basic code.
 
 ## List of what you'll find here:  
-- **"My Groceries List"** [Code here](#1-My-Groceries-List-Code-here)
-- **"Clock"** [Code here](#2-Clock-Code-here)
-- **"Guess the Number"** [Code here](#3-Guess-The-Number-Code-here)
-- **"Random Quote Generator"** [Code here](#4-Random-Quote-Generator-Code-here)
+- **"My Groceries List"** [Here](#1-My-Groceries-List-Code-here)
+- **"Clock"** [Here](#2-Clock-Code-here)
+- **"Guess the Number"** [Here](#3-Guess-The-Number-Code-here)
+- **"Random Quote Generator"** [Here](#4-Random-Quote-Generator-Code-here)
 
 > **I’m continuously adding** new exercises and **updating** existing ones.  
 ---
