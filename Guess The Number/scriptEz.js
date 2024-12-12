@@ -62,12 +62,12 @@ function guessed(){
 function big(){
 	console.log("Troppo grande");
 	document.getElementById("bigOrSmall").innerHTML="<span class='no'>Too big!</span>";
-	bigOrSmall="Troppo grande";
+	bigOrSmall="Too big";
 }
 function small(){
 	console.log("Troppo piccolo");
 	document.getElementById("bigOrSmall").innerHTML="<span class='no'>Too small!</span>";
-	bigOrSmall="Troppo piccolo";
+	bigOrSmall="Too small";
 	
 }
 function triesFinished(){
