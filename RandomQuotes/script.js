@@ -25,8 +25,16 @@ function caricato() {
         "Well done is better than well said. -<i>&nbsp;Benjamin Franklin</i>",
         "Be yourself; everyone else is already taken. -<i>&nbsp;Oscar Wilde</i>",
         "It is during our darkest moments that we must focus to see the light. -<i>&nbsp;Aristotle</i>",
-        "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that. -<i>&nbsp;Martin Luther King Jr.</i>"
-        
+        "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that. -<i>&nbsp;Martin Luther King Jr.</i>",
+        "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best. -<i>&nbsp;Marilyn Monroe</i>",        
+        "So many books, so little time.-<i>&nbsp;Frank Zappa</i>",
+        "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. -<i>&nbsp;Albert Einstein</i>",
+        "A room without books is like a body without a soul.-<i>&nbsp;Marcus Tullius Cicero</i>",
+        "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.-<i>&nbsp; Bernard M. Baruch</i>",
+        "You've gotta dance like there's nobody watching, Love like you'll never be hurt, Sing like there's nobody listening, And live like it's heaven on earth. -<i>&nbsp;William W. Purkey</i>",
+        "You only live once, but if you do it right, once is enough.-<i>&nbsp;Mae West</i>",
+        "Be the change that you wish to see in the world.-<i>&nbsp;Mahatma Gandhi</i>",
+        "In three words I can sum up everything I've learned about life: it goes on.-<i>&nbsp;Robert Frost</i>"       
     ];
 
     function writeQuote() {
