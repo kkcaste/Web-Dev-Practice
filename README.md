@@ -7,6 +7,7 @@
 - **"Guess the Number"** [Here](#3-Guess-The-Number-Code-here)
 - **"Random Quote Generator"** [Here](#4-Random-Quote-Generator-Code-here)
 - **"Agify.io"** [Here](#5-Agify-Code-here)
+- **"PokeAPI"** [Here](#6-PokeAPI-Code-here)
 
 > **I’m continuously adding** new exercises and **updating** existing ones.  
 ---
@@ -57,7 +58,7 @@
 > If you write a name that doesn't exist, the site will display "This name was not found"
 
 ---
-# 5. PokeAPI [Code here](/PokeAPI)
+# 6. PokeAPI [Code here](/PokeAPI)
 ![Screenshot of the index](https://i.postimg.cc/Dz41T7YB/Cattura.png)
 ### This is a _test page_ to see the features of [PokeAPI](https://pokeapi.co/)
 ### How this works?
