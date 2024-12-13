@@ -1,0 +1,82 @@
+
+*{
+	font-family: "Cherry Bomb One", serif;
+  font-weight: 400;
+  font-style: normal;
+  box-sizing:border-box;
+  padding:0;
+  margin:0;
+}
+body{
+	width:100vw;
+	height:100vh;
+	background:#f4f6cc;
+}
+table{
+	border:1px solid #FF0000;
+	padding:10px;
+	border-radius:10px;
+	background:#524e4d;
+	max-width:90%;
+	width:70%;
+	font-size:30px;
+}
+td, th{
+	padding:20px;
+	border:1px #FFDE00 solid;
+	text-align:left;
+	padding-left:5px;
+	font-size:40px;
+	color:#FFDE00;
+	text-shadow:1px 2px 0px #CC0000;
+	margin:0;
+
+}
+th:nth-child(1){
+	border-top:none;
+	border-left:none;
+}
+th:nth-child(2){
+	border-top:none;
+
+}
+th:nth-child(3){
+	border-top:none;
+
+}
+th:nth-child(4){
+	border-top:none;
+	border-right:none;
+
+}
+img{
+	text-align:center;
+	justify-items:center;
+	justify-content:center;
+	max-height: 150px;
+max-width: 200px;
+width: 120px;
+height: 120px;
+}
+.container{
+	text-align:center;
+	justify-items:center;
+	justify-content:center;
+}
+input{
+	width:100%;
+	height:70px;
+	font-size:30px;
+	text-align:center;
+	margin:5px;
+}
+button{
+	font-size:30px;
+	padding:30px;
+	border-radius:20px;
+	margin:5px;
+	background:#3B4CCA;
+	color:#FFDE00;
+	text-shadow:1px 2px 0px #CC0000;
+	cursor:pointer;
+}
