@@ -1,5 +1,6 @@
 # 🛠️ Mini Projects for My Web Developer Journey  
 > I'm not a Web Developer (yet)
+
 > I'm still a **beginner**, so some sites **are not responsive on mobile devices** at the moment and may have some basic code.
 
 ## 📋 List of what you'll find here:  
