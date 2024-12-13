@@ -1,11 +1,12 @@
-# Mini Projects for My Web Developer Journey  
+# 🛠️ Mini Projects for My Web Developer Journey  
 > I'm still at an **average level**, so these sites **are not responsive on mobile devices** at the moment and may have some basic code.
 
-## List of what you'll find here:  
+## 📋 List of what you'll find here:  
 - **"My Groceries List"** [Here](#1-My-Groceries-List-Code-here)
 - **"Clock"** [Here](#2-Clock-Code-here)
 - **"Guess the Number"** [Here](#3-Guess-The-Number-Code-here)
 - **"Random Quote Generator"** [Here](#4-Random-Quote-Generator-Code-here)
+- **"Agify.io"** [Here](#5-Agify-Code-here)
 
 > **I’m continuously adding** new exercises and **updating** existing ones.  
 ---
@@ -47,3 +48,10 @@
 ### The interface is very minimal and you just have to click _anywhere_ on the screen to generate a new quote
 > [!IMPORTANT]
 > #### You can add new quotes either by hand (like I'm doing), or with an API that always generates random quotes like [this one](https://api.quotable.io)
+
+---
+
+# 5. Agify [Code here](/AgifyAPI)
+![Screenshot of the index](https://i.postimg.cc/2yMLLrn6/vvv.png)  
+### On this site you can enter _any name_ and, thanks to the [Agify API](https://agify.io/), the estimated age of that name will be displayed
+> If you write a name that doesn't exist, the site will display "This name was not found"
