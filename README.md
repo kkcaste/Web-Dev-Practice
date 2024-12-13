@@ -1,5 +1,5 @@
 # 🛠️ Mini Projects for My Web Developer Journey  
-> I'm still at an **average level**, so these sites **are not responsive on mobile devices** at the moment and may have some basic code.
+> I'm still at an **average level**, so some sites **are not responsive on mobile devices** at the moment and may have some basic code.
 
 ## 📋 List of what you'll find here:  
 - **"My Groceries List"** [Here](#1-My-Groceries-List-Code-here)
