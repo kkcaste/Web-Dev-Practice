@@ -1,0 +1,198 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+html{
+	scroll-behavior: smooth;
+}
+.hero{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://wallpapers.com/images/hd/my-beautiful-dark-twisted-fantasy-mftsrqblkq4kd8qm.jpg') ;
+	background-size:cover;
+	background-position:center;
+	background-repeat:none;
+	width:100%;
+	height:100vh;
+	padding:0;
+	margin:0;
+	text-align:center;
+	align-content:center;
+	overflow:hidden;
+}
+.hero-txt{
+	font-family: "Chonburi", serif;
+	font-weight: 400;
+	font-style: normal;
+	color:#d4af37;
+	font-size:30px;
+	text-shadow:2px 2px #000000;
+
+}
+.hero-txt h2{
+	font-family: "Pinyon Script", cursive;
+	font-weight: 400;
+	font-style: normal;
+	text-shadow:0.7px 0.7px #000000;
+
+}
+.hero-button button{
+	font-size:30px;
+	width:200px;
+	max-width:200px;
+	height:50px;
+	margin-top:20px;
+	border-radius:2px;
+	border:solid 3px #d4af37;
+	background:	#dc143c;
+	color: #d4af37;
+	font-family: "Cormorant", serif;
+	font-weight: 700;
+	font-style: normal;
+	box-shadow:2px 2px #000000;
+	cursor:pointer;
+	transition:all 0.2s ease;
+}
+.hero-button button:hover{
+	background:#ad102f;
+	color:#e2c876;
+}
+.about{
+	width:100%;
+	height:100vh;
+	padding:0;
+	margin:0;
+	background: #dc143c;
+	display:flex;
+}
+.right{
+	background:black;
+	width:50%;
+	background-image:url('https://www.rollingstone.com/wp-content/uploads/2009/09/9515192dW.jpg?w=1581&h=1054&crop=1');
+	background-position:center;
+	background-size:cover;
+	background-repeat:none;
+}
+.left{
+	width:50%;
+	font-family: "Cormorant", serif;
+	font-weight: 700;
+	font-style: normal;
+	align-content:center;
+	overflow:scroll;
+	overflow-x: hidden; 
+}
+.left h1{
+	font-size:500%;
+	color:	#d4af37;
+	text-shadow:1px 1px black;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:2%;
+
+}
+.left span{
+	font-family: "Pinyon Script", cursive;
+	font-weight: 400;
+	font-style: normal;
+}
+.left a{
+	color:	#d4af37;
+}
+.contact{
+	height:100vh;
+	width:100%;
+	background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://www.dlso.it/site/wp-content/uploads/2021/11/kanye-west.jpeg');
+	background-position:center;
+	background-size:cover;
+	background-repeat:none;
+	align-content:center;
+	justify-content:center;
+	justify-items:center;
+
+}
+.contact h1{
+	color: #d4af37;
+}
+.contactForm input{
+	display:block;
+}
+.contactForm{
+	background:#dc143c;
+	border:4px solid #d4af37;
+	border-radius:2px;
+	box-shadow:4px 4px black;
+	width:80%;
+	height:75%;
+	display:flex;
+}
+.contactRight{
+	width:40%;
+	background-image:url('https://media.gq.com/photos/564f92c8dc7b324869a6ec18/master/pass/GettyImages-104037857.jpg');
+	background-size:cover;
+	background-position:center;
+	background-repeat:none;
+}
+.contactLeft{
+	width:60%;
+	align-content:center;
+	overflow:scroll;
+	overflow-x:hidden;
+}
+.contactLeft h1{
+	font-size:80px;
+	text-shadow:1px 1px black;
+	margin-left:40px;
+}
+.contact input{
+	font-size:30px;
+	margin-left:40px;
+	border:3px solid #d4af37;
+	box-shadow:3px 3px black;
+	padding:10px;
+	background:white;
+	border-radius:2px;
+	margin-bottom:50px;
+	width:80%;
+	font-family: "Cormorant", serif;
+	font-weight: 700;
+	font-style: normal;
+}
+.contact input[type=submit]{
+	width:30%;
+	cursor:pointer;
+	transition:0.1s ease;
+}
+.contact label{
+	font-size:25px;
+	text-shadow:1px 1px black;
+	margin-left:40px;
+	color:#d4af37;
+	
+}
+hr{
+	border:1px solid #d4af37;
+	margin:10px;
+}
+.contact input[type=submit]:hover{
+	background:#ad102f;
+	color:#e2c876;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: 	#dc143c; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #d4af37; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
