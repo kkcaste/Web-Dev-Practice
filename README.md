@@ -10,7 +10,7 @@
 - **"Random Quote Generator"** [Here](#4-Random-Quote-Generator-Code-here)
 - **"Agify.io"** [Here](#5-Agify-Code-here)
 - **"PokeAPI"** [Here](#6-PokeAPI-Code-here)
-- **MBDTF Example page** [Here](#7-MBDTF-Example-Page-Code-here)
+- **"MBDTF Example page"** [Here](#7-MBDTF-Example-Page-Code-here)
 
 > **I’m continuously adding** new exercises and **updating** existing ones.  
 ---
