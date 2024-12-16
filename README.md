@@ -10,6 +10,7 @@
 - **"Random Quote Generator"** [Here](#4-Random-Quote-Generator-Code-here)
 - **"Agify.io"** [Here](#5-Agify-Code-here)
 - **"PokeAPI"** [Here](#6-PokeAPI-Code-here)
+- **MBDTF Example page** [Here](#7-MBDTF-Example-Page-Code-here)
 
 > **I’m continuously adding** new exercises and **updating** existing ones.  
 ---
@@ -60,6 +61,7 @@
 > If you write a name that doesn't exist, the site will display "This name was not found"
 
 ---
+
 # 6. PokeAPI [Code here](/PokeAPI)
 ![Screenshot of the index](https://i.postimg.cc/Dz41T7YB/Cattura.png)
 ### This is a _test page_ to see the features of [PokeAPI](https://pokeapi.co/)
@@ -68,3 +70,14 @@
 - The script receive the name and put the informations in a table
 > [!NOTE]  
 > This was just for testing, the css is bad and the script is not polished
+
+---
+
+# 7. MBDTF Example Page [Code here](/MBDTF)
+![Screenshot of the index](https://i.postimg.cc/7YHxJCLC/mbdtf-SITO.png)
+### This was done for _practice_ in HTML and CSS
+### This page has **three sections**
+- Hero section
+- A section with some informations about the album
+- A **_Contact us_** form
+>More images in the project folder 
