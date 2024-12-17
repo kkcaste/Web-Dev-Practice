@@ -6,11 +6,6 @@ Di seguito trovi 20 esercizi con difficoltà crescente, dal livello facile fino 
 
 ## **HTML & CSS (Livello Facile+)**
 
-
-### 5. Galleria di immagini
-- **Descrizione**: Progetta una galleria di immagini usando flexbox o grid. Aggiungi una funzione di hover per ingrandire l'immagine selezionata.
-- **Obiettivo**: Gestire layout complessi.
-
 ---
 
 ## **Progetti Combinati (HTML, CSS, JavaScript)**
