@@ -11,6 +11,7 @@
 - **"Agify.io"** [Here](#5-Agify-Code-here)
 - **"PokeAPI"** [Here](#6-PokeAPI-Code-here)
 - **"MBDTF Example page"** [Here](#7-MBDTF-Example-Page-Code-here)
+- **"ePortfolio Example page"** [Here](#8-ePortfolio-Code-here)
 
 > **I’m continuously adding** new exercises and **updating** existing ones.  
 ---
@@ -75,9 +76,23 @@
 
 # 7. MBDTF Example Page [Code here](/MBDTF)
 ![Screenshot of the index](https://i.postimg.cc/7YHxJCLC/mbdtf-SITO.png)
+>More images in the project folder
 ### This was done for _practice_ in HTML and CSS
 ### This page has **three sections**
 - Hero section
-- A section with some informations about the album
+- A section with some **_informations_** about the album
 - A **_Contact us_** form
+
+---
+
+# 7. ePortfolio [Code here](/MBDTF)
+![Screenshot of the index](https://i.postimg.cc/Dyvgk0Q3/1.png)
 >More images in the project folder 
+### This is an example page of an **ePortfolio** for a _photographer_
+### This page has **four sections**
+- Hero section
+- A section with some **_informations_** about the photographer
+- A section with the **_best works_** from the photographer
+- A **_Contact us_** form
+> [!NOTE]  
+> This is also my first try to make a responsive page.
