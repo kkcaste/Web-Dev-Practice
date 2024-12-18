@@ -11,7 +11,7 @@
 - **"Agify.io"** [Here](#5-Agify-Code-here)
 - **"PokeAPI"** [Here](#6-PokeAPI-Code-here)
 - **"MBDTF Example page"** [Here](#7-MBDTF-Example-Page-Code-here)
-- **"ePortfolio Example page"** [Here](#8-eportfolio-Code-here)
+- **"ePortfolio Example page"** [Here](#8-e-Portfolio-Code-here)
 
 > **I’m continuously adding** new exercises and **updating** existing ones.  
 ---
@@ -85,7 +85,7 @@
 
 ---
 
-# 7. ePortfolio [Code here](/ePortfolio)
+# 7. e-Portfolio [Code here](/ePortfolio)
 ![Screenshot of the index](https://i.postimg.cc/Dyvgk0Q3/1.png)
 >More images in the project folder 
 ### This is an example page of an **ePortfolio** for a _photographer_
