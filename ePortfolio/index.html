@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap" rel="stylesheet">
+		<link href="https://i.postimg.cc/CKmFBTVB/Cattura-removebg-preview.png" rel="icon" type="image/x-icon">
+		<title>ePortfolio</title>
+		<link rel = "stylesheet" href = "style.css">
+		<script src = "script.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="hero">
+				<div class="header" id="header">
+					<div id="logoImg">
+						<img src="https://i.postimg.cc/CKmFBTVB/Cattura-removebg-preview.png" id="logo">
+					</div>
+					<div id="nav">
+						<nav id="navbar" class="navbar">
+							<a href="#about">About me</a>
+							<a href="#work">Works</a>
+							<a href="#contact">Contacts</a>
+						</nav>
+					</div>
+				</div>
+				<div id="bottomText">
+					<h1><a href="#about">Explore<br>
+					<img id="scrollDown" src="https://img.icons8.com/?size=100&id=37223&format=png&color=000000">
+					</a></h1>
+				</div>
+			</div>
+			<div class="about" id="about">
+				<div id="abtLeft">
+					<div id="abtText">
+						<h1>About me</h1>
+						<hr>
+						<p> 
+							<span class="bold">Passionate</span> about capturing the essence of nature, I am a <span class="bold">24-year-old
+							</span> photographer based in <span id="italy">Italy</span>, 
+							dedicated to transforming moments into timeless visuals. 
+							My work reflects the beauty of the <span class="bold">natural world</span>, inviting you to experience it through my lens. 
+						</p>
+						<a href="#work" id="linkWork">See my works</a>
+					</div>
+				</div>
+				<div id="abtRight">
+					<img id="face" src="https://i.postimg.cc/DZXZHvDV/132d5277-5879-48ad-985d-efa810d750c3.jpg">
+				</div>
+			</div>
+			<div class="work" id="work">
+				<div id="worksTop">
+					<h1>My best works</h1>
+					<hr>
+				</div>
+				<div id="showWorks">
+					<div class="workCard">
+						<img src="https://images.squarespace-cdn.com/content/v1/5de93a2db580764b4f6963f9/07a1198a-47ae-4051-85b3-0cdaf11e409e/SILVER%C2%A9Karthik+Ak_FatherCalling.jpeg?format=1000w">
+						<p><span class="picTitle">Amphibians</span> (Original picture from ©Karthik Ak)</p> <!--Original artist credits--!> 
+					</div>
+					<div class="workCard">
+						<img src="https://images.squarespace-cdn.com/content/v1/5de93a2db580764b4f6963f9/71b71b5a-c83d-4780-b700-79a65177766e/GOLD%C2%A9Bill+Klipp_Sally_Lightfoot_Crabs_Puerto_Egas_Galapagos_.jpeg?format=1000w">
+						<p><span class="picTitle">Invertebrates</span> (Original picture from ©Bill Klipp)</p> <!--Original artist credits--!> 
+					</div>
+					<div class="workCard">
+						<img src="https://images.squarespace-cdn.com/content/v1/5de93a2db580764b4f6963f9/2fddc9c2-dfc8-4210-aca4-bc32515625cd/SILVER%C2%A9Panagiotis+Dalagiorgos_Not+so+silent+hill.jpeg?format=1000w">
+						<p><span class="picTitle">By the moon</span> (Original picture from ©Panagiotis Dalagiorgos)</p> <!--Original artist credits--!> 
+					</div>
+					<div class="workCard">
+						<img src="https://images.squarespace-cdn.com/content/v1/5de93a2db580764b4f6963f9/7aac8d99-c42d-49b9-bebe-5c19a3fbd2d5/SILVER%C2%A9Robert+Ross_Aspent+trees.jpeg?format=1000w">
+						<p><span class="picTitle">Golden Nature</span> (Original picture from ©Robert J. Ross)</p> <!--Original artist credits--!> 
+					</div>
+				</div>
+			</div>
+			<div class="contact" id="contact">
+				<div id="contactWrapper">
+					<div id="contactLeft">
+					
+					</div>
+					<div id="contactRight">
+						<form id="contactForm" name="contactForm" action="./index.html" method="POST">
+							<label>Name:</label>
+							<input type="text" name="name" id="name" required maxlength="35">
+							
+							<label>Email:</label>
+							<input type="email" name="email" id="email" required>
+							
+							<label>What are you interested in?:</label>
+							<textarea name="message" id="message"   required maxlength="999"></textarea>
+							<input type="submit" name="submit" id="submit" value="Send">
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
