@@ -1,0 +1,98 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family: "Poppins", serif;
+	font-style: normal;
+}
+body{
+	width:100vw;
+	height:100vh;
+	background-image:linear-gradient(rgba(244, 247, 251,0.97),rgba(236, 241, 248,0.96)),url('https://www.shutterstock.com/image-vector/bologna-dark-line-simple-minimalist-260nw-2281000927.jpg');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	/*#f4f7fb;*/
+}
+.container{
+	position:absolute;
+	top:40%;
+	left:50%;
+	transform:translate(-50%,-40%);
+}
+#tableWrap{
+	height:80vh;
+	background:	#ffffff;
+	overflow:scroll;
+	width:60vw;
+	box-shadow:12px 15px 15px #b4cae4;
+	border-radius:5px;
+	padding:10px;
+}
+table{
+	border-collapse:collapse;
+}
+thead{
+	position:sticky;
+	top:0;
+	background:white;
+	margin-top:0;
+	padding-top:0;
+	box-shadow:0px -13px  #ffffff;
+}
+th, td{
+	text-align:left;
+	padding:1vh;
+	width:auto;
+	border-bottom:1px solid #A21C26;
+	margin:0;
+
+}
+th{
+	color:#1A2F48;
+}
+tr:nth-child(even){
+	background:#f8fafc;
+}
+
+td:nth-child(3){
+	width:8%;
+	font-style:italic;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+input{
+	width:4vw;
+	height:5vh;
+	font-size:1vw;
+	text-align:center;
+	font-weight:800;
+	border:1px solid #1A2F48;
+	border-radius:5px;
+}
+button{
+	width:3vw;
+	height:5vh;
+	font-size:1vw;
+	text-align:center;
+	font-weight:800;
+	background:#ffffff;
+	border:1px solid #1A2F48;
+	border-radius:5px;
+	cursor:pointer;
+}
+#inp{
+	text-align:center;
+	margin-bottom:2vh;
+}
