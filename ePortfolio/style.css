@@ -228,6 +228,10 @@
 	}
 	.workCard img{
 		width:40vw;
+		transition:0.5s ease all;
+	}
+	.workCard img:hover{
+		width:41vw;
 	}
 	.picTitle{
 		font-weight:800;
